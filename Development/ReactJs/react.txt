@@ -1,1 +1,106 @@
-let's start
+🔹 Core React Basics
+
+  1.  What is React? Why use it?
+  2.  What are the main features of React?
+  3.  What is JSX?
+  4.  What are components in React? Difference between functional and class components.
+  5.  What are props?
+  6.  What is state?
+  7.  Difference between state and props.
+  8.  What is the virtual DOM? How is it different from real DOM?
+  9.  Explain React’s reconciliation process.
+  10.  What is render() in React?
+  11.  What are React Fragments?
+  12.  Difference between React and other frameworks (Angular, Vue).
+
+🔹 Advanced React Concepts
+
+  1. What are Higher-Order Components (HOC)?
+  2. What are render props?
+  3. Difference between HOC and custom hooks.
+  4. What are portals in React?
+  5. What is error boundary in React?
+  6. What is reconciliation algorithm (diffing)?
+  7. What is server-side rendering (SSR)?
+  8. Difference between CSR, SSR, and SSG.
+  9. What is hydration in React?
+  10. What is React Fiber?
+  11. Difference between React 17 and React 18 features.
+  12. What is concurrent rendering in React 18?
+  13. What is React StrictMode?
+
+🔹 Hooks (Modern React)
+
+  1. What are React Hooks? Why were they introduced?
+  2. Explain useState hook with example.
+  3. Explain useEffect hook with example.
+  4. What is the difference between useEffect and useLayoutEffect?
+  5. What is useRef?
+  6. What is useContext?
+  7. What is useReducer?
+  8. Difference between useMemo and useCallback.
+  9. How does useImperativeHandle work?
+  10. Can hooks be used inside loops or conditions? Why not?
+
+🔹 Component Lifecycle
+
+  1. Explain React component lifecycle (Class components).
+  2. What are lifecycle methods like componentDidMount, componentDidUpdate, componentWillUnmount?
+  3. How do you replicate lifecycle methods using hooks?
+
+🔹 React State Management
+
+  1. How does React handle state?
+  2. What are controlled and uncontrolled components?
+  3. What is lifting state up?
+  4. What is prop drilling?
+  5. How to avoid prop drilling?
+  6. What is Context API?
+  7. Redux basics – What is it and why is it used?
+  8. Difference between Redux and Context API.
+  9. Explain Redux flow (actions, reducers, store, dispatch).
+  10. What are middleware in Redux (like thunk, saga)?
+
+🔹 React Performance Optimization
+
+  1. What are keys in React? Why are they important?
+  2. What is React.memo()?
+  3. What is PureComponent?
+  4. Difference between React.memo and useMemo.
+  5. How to optimize re-renders in React?
+  6. How to lazy load a component in React?
+  7. What is code splitting in React?
+  8. What is React Suspense?
+
+🔹 Events & Forms
+
+  1. How are events handled in React?
+  2. Difference between HTML event handling and React event handling.
+  3. What are synthetic events in React?
+  4. How do you handle forms in React?
+  5. Controlled vs uncontrolled inputs.
+
+🔹 Routing
+
+1. What is React Router?
+2. Difference between BrowserRouter and HashRouter.
+3. What are Route, Link, NavLink?
+4. Difference between Switch (v5) and Routes (v6).
+5. What are URL params and query params in React Router?
+6. How to do programmatic navigation in React Router?
+
+🔹 Ecosystem / Tools
+
+  1. What is Next.js? How is it different from React?
+  2. What is CRA (create-react-app)?
+  3. Difference between Vite and CRA.
+  4. What is webpack in React projects?
+  5. What is Babel in React projects?
+
+🔹 Testing in React
+
+  1. How to test React components?
+  2. Difference between unit testing, integration testing, E2E testing.
+  3. What are popular testing libraries for React (Jest, React Testing Library, Cypress)?
+
+
