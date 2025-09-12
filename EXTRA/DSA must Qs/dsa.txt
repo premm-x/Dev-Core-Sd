@@ -1,0 +1,104 @@
+🔹 DSA Roadmap – Topic-wise Must-Do Problems
+
+1. Arrays & Hashing
+
+    1. Two Sum
+    2. Best Time to Buy and Sell Stock
+    3. Product of Array Except Self
+    4. Maximum Subarray (Kadane’s Algorithm)
+    5. Merge Intervals
+    6. Rotate Image (Matrix rotation)
+    7. Set Matrix Zeroes
+    8. Longest Consecutive Sequence
+
+2. Strings
+
+    9. Valid Anagram
+    10. Group Anagrams
+    11. Longest Substring Without Repeating Characters
+    12. Valid Palindrome
+    13. Longest Palindromic Substring
+    14. String to Integer (atoi)
+    15. Implement strStr (Substring search – KMP optional)
+    16. Minimum Window Substring
+
+3. Linked List
+
+    17. Reverse a Linked List
+    18. Detect Cycle in a Linked List
+    19. Merge Two Sorted Lists
+    20. Remove N-th Node from End of List
+    21. Reorder List
+    22. Copy List with Random Pointer
+    23. Add Two Numbers (Linked List representation)
+    24. LRU Cache
+
+4. Stacks & Queues
+
+    25. Valid Parentheses
+    26. Min Stack
+    27. Evaluate Reverse Polish Notation
+    28. Daily Temperatures (Monotonic Stack)
+    29. Next Greater Element
+    30. Sliding Window Maximum
+
+5. Trees & Binary Search Trees (BST)
+
+    31. Maximum Depth of Binary Tree
+    32. Same Tree
+    33. Invert Binary Tree
+    34. Subtree of Another Tree
+    35. Lowest Common Ancestor in BST
+    36. Binary Tree Level Order Traversal
+    37. Validate Binary Search Tree
+    38. Serialize and Deserialize Binary Tree
+
+6. Heaps & Priority Queue
+
+    39. Kth Largest Element in an Array
+    40. Merge K Sorted Lists
+    41. Top K Frequent Elements
+    42. Find Median from Data Stream
+
+7. Binary Search
+
+    43. Binary Search (classic)
+    44. Search in Rotated Sorted Array
+    45. Find Minimum in Rotated Sorted Array
+    46. Search a 2D Matrix
+    47. Median of Two Sorted Arrays
+
+8. Graphs
+
+    48. Number of Islands
+    49. Clone Graph
+    50. Course Schedule (Topological Sort)
+    51. Pacific Atlantic Water Flow
+    52. Word Ladder
+    53. Graph Valid Tree
+    54. Minimum Spanning Tree (Prim’s/Kruskal’s)
+    55. Dijkstra’s Algorithm
+
+9. Dynamic Programming (DP)
+
+    56. Climbing Stairs
+    57. House Robber
+    58. Coin Change
+    59. Longest Increasing Subsequence
+    60. Longest Common Subsequence
+    61. Word Break
+    62. Combination Sum
+    63. Edit Distance
+    64. Maximum Product Subarray
+    65. Unique Paths
+
+10. Advanced Topics
+
+    66. Trie – Implement Trie (Prefix Tree)
+    67. Design Add and Search Words Data Structure
+    68. Design Twitter (Mini social media feed)
+    69. LFU Cache
+    70. Disjoint Set (Union-Find) problems
+
+
+  
