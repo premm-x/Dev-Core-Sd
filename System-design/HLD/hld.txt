@@ -1,1 +1,81 @@
-hld
+focuses on scalability, architecture, distributed systems, databases, caching, communication, fault tolerance etc.
+
+1. Basics of HLD
+
+    1. What is High-Level Design (HLD)? How is it different from LLD?
+    2. What are the main components of a system design?
+    3. What are functional vs non-functional requirements?
+    4. What is scalability? Explain vertical vs horizontal scaling.
+    5. What is load balancing?
+    6. What is caching? Where should caches be used?
+    7. What is a CDN? Why is it needed?
+    8. What is CAP theorem? Explain consistency, availability, partition tolerance.
+    9. Difference between monolithic vs microservices architecture.
+    10. What is event-driven architecture?
+
+2. Databases & Storage
+
+    11. Difference between SQL and NoSQL in system design.
+    12. What are database sharding and replication?
+    13. Difference between strong consistency and eventual consistency.
+    14. What is indexing? How does it affect performance?
+    15. What is database partitioning?
+    16. When would you use NoSQL over SQL?
+    17. What is a message queue? Examples (Kafka, RabbitMQ).
+    18. What is write-through vs write-back caching?
+    19. What is distributed file storage? (e.g., HDFS, S3).
+
+3. Networking & Communication
+
+    20. What is an API Gateway?
+    21. What is REST vs gRPC?
+    22. Difference between synchronous and asynchronous communication.
+    23. What is service discovery in microservices?
+    24. What is rate limiting? Why is it important?
+    25. How does DNS work in system design?
+    26. What are webhooks?
+
+4. Reliability, Security, and Performance
+
+    27. What is fault tolerance? How do you achieve it?
+    28. What is high availability (HA)?
+    29. What is disaster recovery (DR)?
+    30. What are retries, backoff, and circuit breakers?
+    31. What is API throttling?
+    32. What is data encryption in transit vs at rest?
+    33. What is observability? Difference between logging, monitoring, and tracing.
+    34. What is autoscaling?
+
+5. Case-Study Based HLD Questions (Most Asked in Interviews)
+
+    35. Design a URL Shortener (like bit.ly).
+    36. Design Instagram (or photo-sharing app).
+    37. Design WhatsApp (messaging system).
+    38. Design Twitter (news feed + hashtags + followers).
+    39. Design YouTube (video streaming system).
+    40. Design Netflix (video-on-demand streaming).
+    41. Design Amazon/Flipkart (e-commerce system).
+    42. Design Uber/Ola (ride-sharing system).
+    43. Design Swiggy/Zomato (food delivery).
+    44. Design Gmail (email system).
+    45. Design a Logging & Monitoring System.
+    46. Design a Payment System (like PayPal, PhonePe).
+    47. Design Google Docs (collaborative editing).
+    48. Design a Notification Service (push/email/SMS).
+    49. Design a Chat System with typing indicators.
+    50. Design a Distributed Cache System (like Redis).
+
+6. Best Practices in HLD
+
+    51. How do you decide the database choice in system design?
+    52. How do you handle schema changes in large-scale systems?
+    53. How do you ensure system scalability from day one?
+    54. What is the role of APIs in large systems?
+    55. How do you ensure security in a distributed architecture?
+    56. How do you ensure data consistency across microservices?
+    57. When should you use asynchronous queues instead of synchronous calls?
+    58. How do you design for cost optimization in cloud systems?
+    59. How do you reduce latency in global-scale applications?
+    60. What are trade-offs between consistency, availability, and performance?
+    
+
