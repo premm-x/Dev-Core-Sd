@@ -1,0 +1,2 @@
+1. to approach any HLD question in interviews (like how to break down requirements → APIs → DB → scaling → security)? 
+This is what interviewers expect instead of just random answers.
