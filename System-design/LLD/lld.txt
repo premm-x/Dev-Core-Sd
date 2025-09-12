@@ -1,1 +1,62 @@
-LLD
+OOPs knowledge + design patterns + class design + real-world problem solving.
+
+1. Basics of LLD
+
+    1. What is Low-Level Design (LLD)? How is it different from High-Level Design (HLD)?
+    2. What are the key principles of LLD?
+    3. What is the role of UML diagrams in LLD?
+    4. What are SOLID principles? Explain each with examples.
+    5. What is the difference between class diagram, sequence diagram, and activity diagram?
+    6. What is the difference between LLD and OOPs concepts?
+    7. Why do we use design patterns in LLD?
+
+2. OOPs in LLD
+
+    8. How do you use encapsulation in designing classes?
+    9. How do you decide when to use inheritance vs composition?
+    10. Give an example of polymorphism in a real-world system.
+    11. What are interfaces and abstract classes used for in LLD?
+    12. What are some pitfalls of overusing inheritance in design?
+
+3. Design Patterns
+
+    13. What are design patterns?
+    14. Explain Singleton pattern with real-world use case.
+    15. Explain Factory pattern with an example.
+    16. Explain Strategy pattern with example.
+    17. What is Observer pattern? Real-world example.
+    18. What is Decorator pattern?
+    19. What is Adapter pattern?
+    20. What is Builder pattern?
+    21. Difference between Factory and Abstract Factory.
+    22. What are creational, structural, and behavioral patterns?
+
+4. Case-Study Based LLD Questions (Very Common in Interviews)
+
+    23. Design a Parking Lot system.
+    24. Design a Library Management System.
+    25. Design an Elevator System.
+    26. Design a Snake & Ladder Game.
+    27. Design a Chess Game.
+    28. Design a Tic-Tac-Toe Game.
+    29. Design a Vending Machine.
+    30. Design an ATM System.
+    31. Design a Hotel Booking System.
+    32. Design a Splitwise/Expense Sharing app.
+    33. Design a Logging Framework.
+    34. Design a Ride Sharing System (like Uber/Ola).
+    35. Design a Food Ordering App (like Zomato/Swiggy).
+    36. Design a Movie Ticket Booking System.
+    37. Design a Notification Service.
+    38. Design a Cache (like LRU cache).
+    39. Design a URL Shortener (like bit.ly).
+    40. Design a Rate Limiter.
+
+5. Best Practices in LLD
+
+    41. How do you ensure scalability in LLD?
+    42. How do you handle error handling and exceptions in LLD?
+    43. What’s the difference between tight coupling and loose coupling?
+    44. What’s the importance of interfaces in extensibility?
+    45. How to decide class responsibilities in a big project?
+
