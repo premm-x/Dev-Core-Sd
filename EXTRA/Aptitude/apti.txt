@@ -1,0 +1,57 @@
+🔹 Aptitude Roadmap – Topic-wise Must-Do Areas
+
+Group 1 – Basics (Numbers & Arithmetic)
+
+    1. **Percentages** – Profit & Loss, Discounts
+    2. **Ratio & Proportion** – Partnership problems
+    3. **Simple & Compound Interest**
+    4. **Average & Alligation**
+    
+    👉 *Must practice*:
+    
+    * A shopkeeper sells an item at 20% profit. If cost price = ₹200, find SP.
+    * A mixture contains milk & water in 3:2. Add 5 liters water to make ratio 3:4. Find milk.
+
+---
+
+Group 2 – Speed/Time Work
+
+    5. **Time, Speed & Distance** – Trains, Boats & Streams
+    6. **Work & Time** – Pipes & Cisterns
+    7. **Clocks & Calendars**
+    8. **Permutations & Combinations (Basic)**
+    
+    👉 *Must practice*:
+    
+    * A train 120m long passes a pole in 10s. Find speed.
+    * A pipe fills a tank in 4h, another empties in 6h. Time to fill?
+
+---
+
+Group 3 – Algebra & Geometry
+
+    9. **Linear Equations & Quadratic Equations**
+    10. **Probability**
+    11. **Geometry & Mensuration** – Areas, Volumes
+    12. **Progressions (AP, GP)**
+    
+    👉 *Must practice*:
+    
+    * If sum of n terms of AP = 5n², find nth term.
+    * A dice rolled twice. Probability sum = 7?
+
+---
+
+Group 4 – Logical & Reasoning
+
+    13. **Blood Relations**
+    14. **Coding-Decoding**
+    15. **Syllogisms & Venn Diagrams**
+    16. **Puzzles (Seating Arrangement, Floor Puzzle, etc.)**
+    
+    👉 *Must practice*:
+    
+    * A is brother of B, B is daughter of C, C is wife of D. Relation between A & D?
+    * Seating puzzle (circular table, who sits where).
+
+
