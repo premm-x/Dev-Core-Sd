@@ -1,1 +1,64 @@
-sql database
+🔹 DBMS Interview Questions
+
+1. Basics of DBMS
+
+    1. What is DBMS? How is it different from a file system?
+    2. What are the advantages of DBMS?
+    3. What are different types of databases (relational, NoSQL, hierarchical, network)?
+    4. What is a data model in DBMS?
+    5. Difference between DBMS and RDBMS.
+    6. What is a schema?
+    7. What is an instance in DBMS?
+    8. What are keys in DBMS? (Primary, Foreign, Candidate, Alternate, Composite).
+    9. What is a super key?
+    10. Difference between primary key and unique key.
+
+2. SQL & Queries
+
+    11. What are DDL, DML, DCL, and TCL commands?
+    12. Difference between DELETE, TRUNCATE, and DROP.
+    13. What are joins? Explain types of joins (INNER, LEFT, RIGHT, FULL).
+    14. What is a self-join?
+    15. What is a cross join / Cartesian join?
+    16. Difference between WHERE and HAVING clause.
+    17. Difference between UNION and UNION ALL.
+    18. What is a subquery? Difference between correlated and non-correlated subqueries.
+    19. What are views? Advantages and disadvantages.
+    20. What are indexes? Clustered vs non-clustered index.
+    21. What is normalization? Explain 1NF, 2NF, 3NF, BCNF.
+    22. What is denormalization?
+    23. What is SQL injection and how to prevent it?
+    24. Difference between IN and EXISTS.
+    25. What are aggregate functions in SQL?
+
+3. Transactions & Concurrency
+
+    26. What is a transaction in DBMS?
+    27. What are ACID properties? Explain each.
+    28. What is concurrency control in DBMS?
+    29. What is deadlock? How to prevent it?
+    30. Difference between pessimistic and optimistic concurrency control.
+    31. What is a schedule in DBMS?
+    32. What is serializability? (Conflict and View serializability).
+    33. Difference between strict and cascadeless schedules.
+    34. What are isolation levels in DBMS? (Read Uncommitted, Read Committed, Repeatable Read, Serializable).
+    35. What is two-phase locking protocol?
+
+4. Advanced DBMS Concepts
+
+    36. What is indexing? Types of indexing.
+    37. What is a B-Tree index?
+    38. Difference between B-Tree and B+Tree.
+    39. What is hashing in DBMS?
+    40. What is a materialized view?
+    41. What are stored procedures, functions, and triggers?
+    42. Difference between procedure and function.
+    43. What is query optimization?
+    44. What is a database cursor?
+    45. What are database partitioning and sharding?
+    46. What is replication in DBMS?
+    47. Difference between OLTP and OLAP systems.
+    48. What are data warehouses?
+    49. What is CAP theorem?
+    50. Difference between NoSQL and SQL databases.
+    
