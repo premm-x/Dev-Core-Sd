@@ -1,13 +1,13 @@
 ----------------------- LLD --------------------------
 
-To approach any LLD question in interviews:
+🔹 To approach any LLD question in interviews:
 
-1.    Understand requirements  →  clarify features & constraints.
-2.    Identify core objects/classes  →  real-world entities.
-3.    Define attributes & methods  →  what each class stores and does.
-4.    Set relationships  →  inheritance, composition, associations.
-5.    Apply design patterns if needed  →  singleton, factory, strategy.
-6.    Handle edge cases & future extensions  →  full, empty, new features.
+    1.   Understand requirements  →  clarify features & constraints.
+    2.   Identify core objects/classes  →  real-world entities.
+    3.   Define attributes & methods  →  what each class stores and does.
+    4.   Set relationships  →  inheritance, composition, associations.
+    5.   Apply design patterns if needed  →  singleton, factory, strategy.
+    6.   Handle edge cases & future extensions  →  full, empty, new features.
 
 
 
