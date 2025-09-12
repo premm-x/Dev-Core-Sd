@@ -1,0 +1,81 @@
+🔹 MongoDB Interview Questions
+
+1. Basics of MongoDB
+
+    1. What is MongoDB? How is it different from SQL databases?
+    2. What is NoSQL? Why do we use MongoDB instead of SQL?
+    3. What are documents and collections in MongoDB?
+    4. Difference between MongoDB, MySQL, and PostgreSQL.
+    5. Explain BSON vs JSON.
+    6. What is a schema-less database?
+    7. What are advantages and disadvantages of MongoDB?
+    8. When should you not use MongoDB?
+
+2. CRUD Operations
+
+    9. How do you insert a document in MongoDB?
+    10. How do you insert multiple documents at once?
+    11. How do you read/fetch data from MongoDB?
+    12. How do you update a document? Difference between `$set` and `$push`.
+    13. How do you delete a document?
+    14. How do you query nested fields in MongoDB?
+    15. How do you perform pattern matching in MongoDB (like SQL’s LIKE)?
+    16. How to sort results in MongoDB?
+    17. How to implement pagination in MongoDB?
+
+3. Indexing & Performance
+
+    18. What is an index in MongoDB?
+    19. How do you create an index in MongoDB?
+    20. What are different types of indexes? (single field, compound, text, geospatial)
+    21. How do indexes improve performance?
+    22. What are the drawbacks of indexes?
+    23. How to check if a query is using index?
+    24. Difference between covered query and non-covered query.
+
+4. Aggregation Framework
+
+    25. What is aggregation in MongoDB?
+    26. Difference between aggregation pipeline and map-reduce.
+    27. Explain stages in aggregation (`$match`, `$group`, `$project`, `$sort`, `$limit`, `$lookup`).
+    28. Write a query to count documents grouped by a field.
+    29. Write a query to join two collections.
+    30. What is `$unwind` used for?
+    31. What is `$facet` and `$bucket` in aggregation?
+
+5. Data Modeling
+
+    32. Difference between embedded documents and references.
+    33. When should we use embedding vs referencing?
+    34. What is data denormalization in MongoDB?
+    35. Difference between normalized vs denormalized schema.
+    36. What are capped collections?
+    37. What are time-series collections?
+
+6. Replication & Sharding
+
+    38. What is replication in MongoDB?
+    39. What is a replica set? How does failover work?
+    40. What is sharding?
+    41. What is a shard key?
+    42. Difference between horizontal scaling and vertical scaling.
+    43. What is balancer in sharding?
+
+7. Transactions & Concurrency
+
+    44. Does MongoDB support ACID transactions? Explain.
+    45. How are multi-document transactions handled?
+    46. Difference between atomic operations and transactions.
+    47. What is write concern in MongoDB?
+    48. What is read concern in MongoDB?
+    49. What is journaling in MongoDB?
+
+8. Security & Admin
+
+    50. How do you create a user in MongoDB?
+    51. What are roles and privileges?
+    52. How does MongoDB handle authentication and authorization?
+    53. How to enable SSL/TLS in MongoDB?
+    54. How do you take a backup and restore a database?
+    55. How to monitor MongoDB performance?
+
