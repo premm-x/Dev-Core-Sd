@@ -1,1 +1,59 @@
-Computer Networks
+🔹 Computer Networks (CN) Interview Questions
+
+1. Basics of Networking
+
+    1. What is a computer network?
+    2. What are the different types of networks? (LAN, MAN, WAN, PAN)
+    3. What are the layers of the OSI model?
+    4. Explain each layer of the OSI model briefly.
+    5. Difference between OSI and TCP/IP model.
+    6. What is bandwidth and latency?
+    7. What is throughput?
+    8. Difference between circuit switching and packet switching.
+
+2. IP Addressing & Protocols
+
+    9. What is an IP address? Difference between IPv4 and IPv6.
+    10. What is subnetting?
+    11. What is a MAC address?
+    12. Difference between public IP and private IP.
+    13. What is DNS?
+    14. What is DHCP?
+    15. What is ARP and RARP?
+    16. What is ICMP?
+    17. Difference between TCP and UDP.
+    18. What is a port number?
+    19. What is socket programming?
+    20. What is the difference between IP, TCP, and UDP?
+
+3. Routing & Switching
+
+    21. What is a router?
+    22. What is a switch?
+    23. Difference between hub, switch, and router.
+    24. What is routing?
+    25. Difference between static routing and dynamic routing.
+    26. What are routing algorithms? (Distance Vector, Link State)
+    27. What is load balancing in networking?
+    28. What is NAT (Network Address Translation)?
+    29. What is default gateway?
+
+4. Application Layer Protocols
+
+    30. What is HTTP? Difference between HTTP and HTTPS.
+    31. What is FTP?
+    32. What is SMTP, POP3, and IMAP?
+    33. What is SSH and Telnet? Difference between them.
+    34. What is REST API vs SOAP?
+    35. What is WebSocket? Difference from HTTP.
+
+5. Security in Networks
+
+    36. What is a firewall?
+    37. What is a proxy server?
+    38. What is VPN?
+    39. What is SSL/TLS?
+    40. What is symmetric vs asymmetric encryption?
+    41. What is man-in-the-middle attack?
+    42. What is DDoS attack? How to prevent it?
+
