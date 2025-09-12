@@ -1,0 +1,53 @@
+🔹 React Basics (extra)
+
+  1. Why can’t browsers read JSX directly?
+  2. What are controlled vs uncontrolled refs?
+  3. Why should you not modify state directly?
+  4. What is reconciliation and why is it important?
+
+🔹 Hooks (extra)
+
+  1. What are custom hooks?
+  2. Can two components share the same hook logic? How?
+  3. How does useEffect cleanup function work?
+  4. What happens if you pass an empty dependency array to useEffect?
+  5. What happens if you don’t pass any dependency array?
+
+🔹 State & Props (extra)
+
+  1. Why is state updating asynchronous in React?
+  2. What is batching in React 18?
+  3. How to pass data from child to parent component?
+  4. What happens if two setState calls are executed in a row?
+
+🔹 Performance & Optimization (extra)
+
+  1. What is React reconciliation key problem if keys are not unique?
+  2. Why React uses keys instead of index?
+  3. Difference between React.lazy and dynamic imports.
+  4. How does React handle large lists efficiently? (e.g., windowing, react-window, react-virtualized).
+
+🔹 React Router (extra)
+
+  1. What is nested routing in React Router?
+  2. Difference between Redirect (v5) and Navigate (v6).
+  3. What is Outlet in React Router v6?
+
+🔹 Advanced (extra)
+
+  1. How do you handle authentication in React?
+  2. What is JWT and how is it used in React apps?
+  3. Difference between HOC vs composition.
+  4. What are controlled portals?
+  5. What is Suspense for Data Fetching?
+  6. What is React Profiler API?
+  7.Explain React 18 automatic batching.
+
+🔹 Deployment / Real-World
+
+How do you deploy a React app?
+What are environment variables in React?
+What are common security issues in React (XSS, CSRF) and how to prevent them?
+How do you handle error logging in production React apps?
+
+
