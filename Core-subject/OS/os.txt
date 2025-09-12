@@ -1,1 +1,62 @@
-os
+🔹 Operating System (OS) Interview Questions
+
+1. Basics of OS
+
+    1. What is an operating system?
+    2. What are the main functions of an OS?
+    3. Types of operating systems (batch, multiprogramming, multitasking, real-time, distributed).
+    4. Difference between kernel and OS.
+    5. Difference between microkernel and monolithic kernel.
+    6. What are system calls? Give examples.
+
+2. Processes & Threads
+
+    7. What is a process?
+    8. What is a thread?
+    9. Difference between process and thread.
+    10. What are process states? (new, ready, running, waiting, terminated).
+    11. What is PCB (Process Control Block)?
+    12. Difference between user-level and kernel-level threads.
+    13. What is multithreading? Advantages and disadvantages.
+    14. What is context switching?
+    15. What is a daemon process?
+
+3. CPU Scheduling
+
+    16. What is CPU scheduling?
+    17. Types of scheduling algorithms (FCFS, SJF, Priority, Round Robin, Multilevel Queue).
+    18. Difference between preemptive and non-preemptive scheduling.
+    19. What is starvation? How to prevent it?
+    20. What is aging in scheduling?
+
+4. Deadlocks & Synchronization
+
+    21. What is a deadlock?
+    22. What are the necessary conditions for deadlock?
+    23. Difference between deadlock prevention, avoidance, and detection.
+    24. What is Banker’s algorithm?
+    25. What is starvation vs deadlock?
+    26. What is semaphore? Types of semaphore.
+    27. Difference between mutex and semaphore.
+    28. What is monitor in OS?
+
+5. Memory Management
+
+    29. What is paging?
+    30. What is segmentation?
+    31. Difference between paging and segmentation.
+    32. What is virtual memory?
+    33. What is demand paging?
+    34. What is page fault?
+    35. Difference between internal and external fragmentation.
+    36. What is thrashing in OS?
+    37. What are page replacement algorithms? (FIFO, LRU, Optimal).
+
+6. File Systems & I/O
+
+    38. What is a file system?
+    39. Difference between absolute and relative path.
+    40. What are inodes?
+    41. What is buffering, caching, and spooling?
+    42. What is RAID? Types of RAID.
+
