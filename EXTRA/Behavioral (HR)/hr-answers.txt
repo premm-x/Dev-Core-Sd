@@ -2,243 +2,186 @@
 
 1. Self-Introduction / Background
 
-1. Tell me about yourself.
-  “I am \[Name], \[Education/Experience]. I have worked on \[Tech/Projects] and enjoy \[strength/interest]. 
-  I am seeking opportunities in \[Role/Field] to grow and contribute.”
-
-2. Walk me through your resume.
-  “I completed \[Education], then worked at \[Company] on \[Projects/Role]. Key achievements: \[2–3 points].”
-
-3. Why this career/job?
-  “I am passionate about \[field/tech]. This role aligns with my skills in \[X] and gives me opportunities to grow and contribute.”
-  
-4. Strengths
-  Pick 2–3: “Problem-solving, adaptability, teamwork.” Give 1 short example.
-
-5. Weaknesses
-  Pick real but fixable: “I over-focus on details, so I use checklists to balance speed and accuracy.”
-
-6. Handling failure
-  “I analyze what went wrong, take lessons, and improve. Example: \[short story].”
-
-7. Handling success
-   “I celebrate, then reflect on what can be done better next time.”
-
-8. Motivation
-  “Learning new technologies, solving challenges, and delivering impactful solutions motivate me.”
+    1. Tell me about yourself.
+      “I am \[Name], \[Education/Experience]. I have worked on \[Tech/Projects] and enjoy \[strength/interest]. 
+      I am seeking opportunities in \[Role/Field] to grow and contribute.”
+    
+    2. Walk me through your resume.
+      “I completed \[Education], then worked at \[Company] on \[Projects/Role]. Key achievements: \[2–3 points].”
+    
+    3. Why this career/job?
+      “I am passionate about \[field/tech]. This role aligns with my skills in \[X] and gives me opportunities to grow and contribute.”
+      
+    4. Strengths
+      Pick 2–3: “Problem-solving, adaptability, teamwork.” Give 1 short example.
+    
+    5. Weaknesses
+      Pick real but fixable: “I over-focus on details, so I use checklists to balance speed and accuracy.”
+    
+    6. Handling failure
+      “I analyze what went wrong, take lessons, and improve. Example: \[short story].”
+    
+    7. Handling success
+       “I celebrate, then reflect on what can be done better next time.”
+    
+    8. Motivation
+      “Learning new technologies, solving challenges, and delivering impactful solutions motivate me.”
 
 ---
 
 2. Career Goals & Aspirations
 
-9. **Where in 5 years?**
-
-   * “I aim to become a \[Senior Role/Tech Expert] contributing to high-impact projects.”
-
-10. **Long-term career goals**
-
-* “Grow as a full-stack/backend expert and lead impactful projects.”
-
-11. **Why this company?**
-
-* “Because of your culture, growth opportunities, and impactful projects.”
-
-12. **Why leaving current job?**
-
-* “Looking for growth, learning, and challenges aligned with my skills.”
-
-13. **Why this field/technology?**
-
-* “I enjoy solving problems in \[tech], and it matches my career interests.”
-
-14. **Growth in company**
-
-* “I plan to take ownership of projects, learn advanced skills, and contribute to success.”
+    9. Where in 5 years?
+      “I aim to become a \[Senior Role/Tech Expert] contributing to high-impact projects.”
+    
+    10. Long-term career goals
+      “Grow as a full-stack/backend expert and lead impactful projects.”
+    
+    11. Why this company?
+      “Because of your culture, growth opportunities, and impactful projects.”
+    
+    12. Why leaving current job?
+      “Looking for growth, learning, and challenges aligned with my skills.”
+    
+    13. Why this field/technology?
+      “I enjoy solving problems in \[tech], and it matches my career interests.”
+    
+    14. Growth in company
+      “I plan to take ownership of projects, learn advanced skills, and contribute to success.”
 
 ---
 
-### 3. Teamwork & Collaboration
-
-15. **Teamwork example**
-
-* “In project X, I collaborated with Y team to achieve Z result efficiently.”
-
-16. **Conflict handling**
-
-* “I listen, communicate calmly, find common ground, and propose solutions.”
-
-17. **Disagreeing with manager**
-
-* “I present data/facts respectfully, suggest alternatives, and accept final decisions.”
-
-18. **Handling criticism**
-
-* “I take it constructively, improve my work, and follow up with results.”
-
-19. **Motivating underperforming member**
-
-* “Identify challenges, guide, encourage, and set achievable goals.”
-
-20. **Difficult colleague**
-
-* “Focus on work goals, communicate professionally, and collaborate effectively.”
+3. Teamwork & Collaboration
+    
+    15. Teamwork example
+      “In project X, I collaborated with Y team to achieve Z result efficiently.”
+    
+    16. Conflict handling
+      “I listen, communicate calmly, find common ground, and propose solutions.”
+    
+    17. Disagreeing with manager
+      “I present data/facts respectfully, suggest alternatives, and accept final decisions.”
+    
+    18. Handling criticism
+      “I take it constructively, improve my work, and follow up with results.”
+    
+    19. Motivating underperforming member
+      “Identify challenges, guide, encourage, and set achievable goals.”
+    
+    20. Difficult colleague
+      “Focus on work goals, communicate professionally, and collaborate effectively.”
 
 ---
 
-### 4. Leadership & Problem Solving
+4. Leadership & Problem Solving
 
-21. **Leadership example**
-
-* “Led project X, delegated tasks, ensured deadlines, and achieved Y.”
-
-22. **Prioritize under pressure**
-
-* “Assess urgency & impact, tackle critical tasks first, communicate progress.”
-
-23. **Challenging problem**
-
-* “Encountered X, analyzed root cause, applied solution Y, achieved result Z.”
-
-24. **Decision in ambiguity**
-
-* “Collect available data, evaluate options, make best-informed decision, monitor outcome.”
-
-25. **Handling tight deadlines**
-
-* “Break tasks into milestones, focus on high-priority items, communicate regularly.”
-
-26. **Obstacle in project**
-
-* “Faced X, collaborated with team, proposed solution, and delivered successfully.”
+    21. Leadership example
+      “Led project X, delegated tasks, ensured deadlines, and achieved Y.”
+    
+    22. Prioritize under pressure
+      “Assess urgency & impact, tackle critical tasks first, communicate progress.”
+    
+    23. Challenging problem
+      “Encountered X, analyzed root cause, applied solution Y, achieved result Z.”
+    
+    24. Decision in ambiguity
+      “Collect available data, evaluate options, make best-informed decision, monitor outcome.”
+    
+    25. Handling tight deadlines
+      “Break tasks into milestones, focus on high-priority items, communicate regularly.”
+    
+    26. Obstacle in project
+      “Faced X, collaborated with team, proposed solution, and delivered successfully.”
 
 ---
 
-### 5. Work Style & Personal Traits
+5. Work Style & Personal Traits
 
-27. **Detail-oriented or big-picture**
-
-* “I focus on details but keep end-goals in mind.”
-
-28. **Handling stress**
-
-* “Stay calm, prioritize tasks, and manage time efficiently.”
-
-29. **Managing multiple tasks**
-
-* “Use to-do lists, milestones, and prioritize by impact.”
-
-30. **Preferred work environment**
-
-* “Collaborative, innovative, and challenging.”
-
-31. **Fast-paced environment**
-
-* “Adapt quickly, stay organized, and communicate effectively.”
-
-32. **Learning new technologies**
-
-* “Self-study, online courses, practice, and applying in projects.”
+    27. Detail-oriented or big-picture
+      “I focus on details but keep end-goals in mind.”
+    
+    28. Handling stress
+      “Stay calm, prioritize tasks, and manage time efficiently.”
+    
+    29. Managing multiple tasks
+      “Use to-do lists, milestones, and prioritize by impact.”
+    
+    30. Preferred work environment
+      “Collaborative, innovative, and challenging.”
+    
+    31. Fast-paced environment
+      “Adapt quickly, stay organized, and communicate effectively.”
+    
+    32. Learning new technologies
+      “Self-study, online courses, practice, and applying in projects.”
 
 ---
 
-### 6. Company & Job Fit
+6. Company & Job Fit
 
-33. **Why should we hire you?**
-
-* “I bring \[skills], experience in \[X], and passion for \[field]. I will contribute effectively to your team.”
-
-34. **Knowledge about company**
-
-* “Your company works on \[products/tech], has strong culture, and focuses on innovation.”
-
-35. **Background fit**
-
-* “My skills in \[tech/project] align with the role’s responsibilities.”
-
-36. **Contribution to team**
-
-* “I bring problem-solving skills, reliability, and ability to collaborate effectively.”
-
-37. **Willing to relocate/travel**
-
-* “Yes, flexible and open to opportunities that benefit growth.”
-
-38. **Open to different tech/domain**
-
-* “Yes, willing to learn and adapt to new technologies or domains.”
+    33. Why should we hire you?
+      “I bring \[skills], experience in \[X], and passion for \[field]. I will contribute effectively to your team.”
+    
+    34. Knowledge about company
+      “Your company works on \[products/tech], has strong culture, and focuses on innovation.”
+    
+    35. Background fit
+      “My skills in \[tech/project] align with the role’s responsibilities.”
+    
+    36. Contribution to team
+      “I bring problem-solving skills, reliability, and ability to collaborate effectively.”
+    
+    37. Willing to relocate/travel
+      “Yes, flexible and open to opportunities that benefit growth.”
+    
+    38. Open to different tech/domain
+      “Yes, willing to learn and adapt to new technologies or domains.”
 
 ---
 
-### 7. STAR Method Questions
+7. STAR Method Questions
 
-39. **Failure example** → STAR
+    39. Failure example → STAR
+    
+    * Situation: X happened
+    * Task: Needed to do Y
+    * Action: Did Z
+    * Result: Learned W, improved for future
 
-* **Situation:** X happened
-* **Task:** Needed to do Y
-* **Action:** Did Z
-* **Result:** Learned W, improved for future
-
-40. **Disagreement example** → STAR
-
-* “Situation: Project conflict… Action: Communicated, compromised… Result: Task completed efficiently.”
-
-41. **Initiative example** → STAR
-
-* “Identified gap, proposed solution, implemented, achieved improvement.”
-
-42. **Process improvement example** → STAR
-
-* “Suggested automation, reduced manual work by X%, improved efficiency.”
-
-43. **Adapt quickly example** → STAR
-
-* “New tech introduced, learned fast, implemented in project successfully.”
-
-44. **Conflict management example** → STAR
-
-* “Team disagreement… Mediated… Achieved consensus.”
-
-45. **Above and beyond example** → STAR
-
-* “Took extra responsibility, delivered ahead of deadline, recognized by manager.”
+    40. Disagreement example → STAR
+      “Situation: Project conflict… Action: Communicated, compromised… Result: Task completed efficiently.”
+    
+    41. Initiative example → STAR
+      “Identified gap, proposed solution, implemented, achieved improvement.”
+    
+    42. Process improvement example → STAR
+      “Suggested automation, reduced manual work by X%, improved efficiency.”
+    
+    43. Adapt quickly example → STAR
+      “New tech introduced, learned fast, implemented in project successfully.”
+    
+    44. Conflict management example → STAR
+      “Team disagreement… Mediated… Achieved consensus.”
+    
+    45. Above and beyond example → STAR
+      “Took extra responsibility, delivered ahead of deadline, recognized by manager.”
 
 ---
 
-### 8. Miscellaneous / Fun Questions
+8. Miscellaneous / Fun Questions
 
-46. **Hobbies/interests** → Keep short & positive
+    46. Hobbies/interests → Keep short & positive
+      “I enjoy coding challenges, reading tech blogs, and playing \[sport/hobby].”
+    
+    47. Animal question
+      “I’d be a \[animal] because it represents \[trait].”
+    
+    48. Weekends
+      “I balance learning, hobbies, and spending time with family/friends.”
+    
+    49. Book/movie influence
+      “Book/movie X taught me \[lesson relevant to work ethic or mindset].”
+    
+    50. Superpower
+      “Ability to learn instantly – helps in solving complex problems quickly.”
 
-* “I enjoy coding challenges, reading tech blogs, and playing \[sport/hobby].”
-
-47. **Animal question**
-
-* “I’d be a \[animal] because it represents \[trait].”
-
-48. **Weekends**
-
-* “I balance learning, hobbies, and spending time with family/friends.”
-
-49. **Book/movie influence**
-
-* “Book/movie X taught me \[lesson relevant to work ethic or mindset].”
-
-50. **Superpower**
-
-* “Ability to learn instantly – helps in solving complex problems quickly.”
-
----
-
-✅ This template covers **all 50 HR/Behavioral questions** in **concise, ready-to-use answers**.
-You can **personalize examples** from your experience for STAR-based questions.
-
----
-
-If you want, I can **combine everything we discussed today into a single ultimate interview guide**:
-
-* React, Node, DBMS, MongoDB
-* OS, CN, OOPs, LLD, HLD
-* DSA + Aptitude + HR answers
-
-It’ll be **your one-stop prep document** for interviews.
-
-Do you want me to do that next?
