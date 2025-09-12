@@ -1,106 +1,106 @@
 🔹 Node.js Basics
 
-1. What is Node.js?
-2. Why use Node.js?
-3. Difference between Node.js and traditional web servers (Apache, Nginx).
-4. Is Node.js single-threaded? How does it handle concurrency?
-5. What is the V8 engine?
-6. What is event-driven programming in Node.js?
-7. What is the event loop? Explain phases of the event loop.
-8. What are global objects in Node.js?
-9. Difference between setImmediate(), process.nextTick(), and setTimeout().
-10. What is REPL in Node.js?
+  1. What is Node.js?
+  2. Why use Node.js?
+  3. Difference between Node.js and traditional web servers (Apache, Nginx).
+  4. Is Node.js single-threaded? How does it handle concurrency?
+  5. What is the V8 engine?
+  6. What is event-driven programming in Node.js?
+  7. What is the event loop? Explain phases of the event loop.
+  8. What are global objects in Node.js?
+  9. Difference between setImmediate(), process.nextTick(), and setTimeout().
+  10. What is REPL in Node.js?
 
 🔹 Modules & Packages
 
-1. What are modules in Node.js?
-2. Difference between CommonJS and ES6 modules.
-3. What is npm?
-4. Difference between dependencies and devDependencies in package.json.
-5. What is npx?
-6. What are peerDependencies?
-7. How to create a custom module in Node.js?
+  1. What are modules in Node.js?
+  2. Difference between CommonJS and ES6 modules.
+  3. What is npm?
+  4. Difference between dependencies and devDependencies in package.json.
+  5. What is npx?
+  6. What are peerDependencies?
+  7. How to create a custom module in Node.js?
 
 🔹 Asynchronous Programming
 
-1. What are callbacks in Node.js?
-2. What is callback hell? How to avoid it?
-3. Difference between callbacks, promises, and async/await.
-4. What are async functions?
-5. How does Node.js handle asynchronous I/O?
-6. What is the difference between concurrency and parallelism in Node.js?
+  1. What are callbacks in Node.js?
+  2. What is callback hell? How to avoid it?
+  3. Difference between callbacks, promises, and async/await.
+  4. What are async functions?
+  5. How does Node.js handle asynchronous I/O?
+  6. What is the difference between concurrency and parallelism in Node.js?
 
 🔹 File System & Streams
 
-1. How do you read and write files in Node.js?
-2. Difference between synchronous and asynchronous methods in fs module.
-3. What are streams in Node.js?
-4. Types of streams (Readable, Writable, Duplex, Transform).
-5. Difference between pipe() and pipeline().
-6. What is backpressure in streams?
+  1. How do you read and write files in Node.js?
+  2. Difference between synchronous and asynchronous methods in fs module.
+  3. What are streams in Node.js?
+  4. Types of streams (Readable, Writable, Duplex, Transform).
+  5. Difference between pipe() and pipeline().
+  6. What is backpressure in streams?
 
 🔹 Events
 
-1. What is the EventEmitter class?
-2. How do you create and listen to custom events?
-3. Difference between process.on and EventEmitter.on.
+  1. What is the EventEmitter class?
+  2. How do you create and listen to custom events?
+  3. Difference between process.on and EventEmitter.on.
 
 🔹 Express.js (Most asked with Node.js)
 
-1. What is Express.js? Why use it?
-2. Difference between middleware and routes.
-3. Types of middleware in Express.
-4. How to handle errors in Express?
-5. Difference between app.use() and app.get().
-6. What are route parameters and query parameters?
-7. How to implement authentication in Express?
-8. Difference between res.send(), res.json(), res.end().
+  1. What is Express.js? Why use it?
+  2. Difference between middleware and routes.
+  3. Types of middleware in Express.
+  4. How to handle errors in Express?
+  5. Difference between app.use() and app.get().
+  6. What are route parameters and query parameters?
+  7. How to implement authentication in Express?
+  8. Difference between res.send(), res.json(), res.end().
 
 🔹 Databases with Node.js
 
-1. How do you connect Node.js with MongoDB / MySQL?
-2. Difference between SQL and NoSQL databases.
-3. What is Mongoose?
-4. How to handle transactions in Node.js with DB?
-5. Connection pooling in Node.js.
+  1. How do you connect Node.js with MongoDB / MySQL?
+  2. Difference between SQL and NoSQL databases.
+  3. What is Mongoose?
+  4. How to handle transactions in Node.js with DB?
+  5. Connection pooling in Node.js.
 
 🔹 Authentication & Security
 
-1. How to implement JWT authentication in Node.js?
-2. Difference between sessions and tokens.
-3. What is OAuth2?
-4. How do you prevent SQL Injection in Node.js?
-5. How do you prevent XSS attacks in Node.js?
-6. What are CORS and how to handle them in Express?
-7. What are Helmet and bcrypt libraries used for?
+  1. How to implement JWT authentication in Node.js?
+  2. Difference between sessions and tokens.
+  3. What is OAuth2?
+  4. How do you prevent SQL Injection in Node.js?
+  5. How do you prevent XSS attacks in Node.js?
+  6. What are CORS and how to handle them in Express?
+  7. What are Helmet and bcrypt libraries used for?
 
 🔹 Performance & Scaling
 
-1. How does Node.js handle multiple requests at the same time?
-2. What is clustering in Node.js?
-3. What is PM2?
-4. Difference between load balancing and clustering.
-5. How do you improve Node.js performance?
-6. What is caching in Node.js? How to implement it (Redis, in-memory)?
+  1. How does Node.js handle multiple requests at the same time?
+  2. What is clustering in Node.js?
+  3. What is PM2?
+  4. Difference between load balancing and clustering.
+  5. How do you improve Node.js performance?
+  6. What is caching in Node.js? How to implement it (Redis, in-memory)?
 
 🔹 Advanced Concepts
 
-1. What is process.env in Node.js?
-2. Difference between spawn, exec, and fork in child_process module.
-3. What are worker threads in Node.js?
-4. What is buffer in Node.js?
-5. Difference between process and thread in Node.js.
-6. What is Zero Downtime Deployment?
-7. Explain microservices in Node.js.
-8. What is GraphQL? How does it differ from REST in Node.js?
-9. What is serverless architecture?
+  1. What is process.env in Node.js?
+  2. Difference between spawn, exec, and fork in child_process module.
+  3. What are worker threads in Node.js?
+  4. What is buffer in Node.js?
+  5. Difference between process and thread in Node.js.
+  6. What is Zero Downtime Deployment?
+  7. Explain microservices in Node.js.
+  8. What is GraphQL? How does it differ from REST in Node.js?
+  9. What is serverless architecture?
 
 🔹 Testing & Deployment
 
-1. How do you test Node.js applications? (Mocha, Jest, Supertest).
-2. How to mock dependencies in Node.js tests?
-3. What are integration tests vs unit tests in Node.js?
-4. How to deploy a Node.js app (Heroku, AWS, Docker)?
-5. What is CI/CD in Node.js projects?
+  1. How do you test Node.js applications? (Mocha, Jest, Supertest).
+  2. How to mock dependencies in Node.js tests?
+  3. What are integration tests vs unit tests in Node.js?
+  4. How to deploy a Node.js app (Heroku, AWS, Docker)?
+  5. What is CI/CD in Node.js projects?
 
 
