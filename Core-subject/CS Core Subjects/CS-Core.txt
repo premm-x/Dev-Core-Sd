@@ -1,0 +1,43 @@
+🔹 CS Core Subjects – Deep Dive --- (Compiler Design + Software Engineering).
+
+1. Compiler Design
+
+    1. What is a compiler? Difference between compiler and interpreter.
+    2. What are the different phases of a compiler?
+       * Lexical Analysis
+       * Syntax Analysis (Parsing)
+       * Semantic Analysis
+       * Intermediate Code Generation
+       * Code Optimization
+       * Code Generation
+    3. What is lexical analysis? What are tokens, lexemes, and patterns?
+    4. What is a symbol table? Why is it needed?
+    5. What is a parse tree and abstract syntax tree (AST)?
+    6. What are parsing techniques? (Top-down vs Bottom-up)
+    7. What is left recursion in grammar? How to remove it?
+    8. What is ambiguity in grammar?
+    9. Difference between LL(1) and LR(1) parsers.
+    10. What is intermediate code? Explain 3-address code.
+    11. What are compiler optimizations? (loop unrolling, dead code elimination, constant folding).
+    12. Difference between static and dynamic linking.
+    13. What is Just-In-Time (JIT) compilation?
+
+2. Software Engineering
+
+    14. What is Software Development Life Cycle (SDLC)?
+    15. Explain different SDLC models (Waterfall, Agile, Spiral, V-Model).
+    16. Difference between Agile and Waterfall.
+    17. What is the difference between functional and non-functional requirements?
+    18. What is Software Requirement Specification (SRS)?
+    19. What is black-box testing vs white-box testing?
+    20. What are different types of software testing (unit, integration, system, acceptance)?
+    21. What is regression testing?
+    22. What is verification vs validation?
+    23. What is software maintenance? Types of maintenance.
+    24. What is software project management?
+    25. What is risk management in software projects?
+    26. What are CASE tools?
+    27. What is software quality assurance (SQA)?
+
+
+
