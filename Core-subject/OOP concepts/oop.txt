@@ -1,1 +1,93 @@
-OOP concepts
+🔹 OOPs Theory Interview Questions
+
+1. Basics of OOP
+
+    1. What is Object-Oriented Programming (OOP)?
+    2. What are the main features of OOP?
+    3. What is the difference between object-oriented programming and procedural programming?
+    4. What is an object?
+    5. What is a class?
+    6. What is the difference between class and object?
+    7. What is encapsulation?
+    8. What is abstraction?
+    9. What is polymorphism?
+    10. What is inheritance?
+
+2. Encapsulation & Abstraction
+
+    11. Difference between encapsulation and abstraction.
+    12. How is data hiding achieved in OOP?
+    13. What is the importance of access modifiers (private, public, protected)?
+    14. Can abstraction be achieved without using abstract classes?
+    15. Difference between abstract class and interface.
+
+3. Inheritance
+
+    16. What is inheritance?
+    17. What are the types of inheritance? (single, multiple, multilevel, hierarchical, hybrid)
+    18. What is multiple inheritance? Is it supported in Java? Why/why not?
+    19. Difference between composition and inheritance.
+    20. What is method overriding?
+
+4. Polymorphism
+
+    21. What is polymorphism?
+    22. What are the types of polymorphism? (compile-time and runtime)
+    23. What is method overloading?
+    24. What is method overriding?
+    25. Difference between overloading and overriding.
+    26. Can constructor be overloaded?
+    27. Can constructor be overridden?
+
+5. Advanced OOP Concepts
+
+    28. What are constructors and destructors?
+    29. What is a copy constructor?
+    30. What is static keyword in OOP?
+    31. What is the difference between static and dynamic binding?
+    32. What is final, finally, and finalize in Java (conceptually OOP)?
+    33. What is cohesion and coupling in OOP?
+    34. What is an association, aggregation, and composition?
+    35. Difference between IS-A and HAS-A relationship.
+    36. What is an inner class?
+    37. What is an anonymous class?
+
+
+🔹 OOPs + Java-Specific Coding Interview Questions
+
+1. Encapsulation & Abstraction
+
+    38. Write a Java program to demonstrate encapsulation using getters and setters.
+    39. Write a program to show abstraction using abstract class.
+    40. Write a program to implement interface in Java.
+    41. Difference between interface and abstract class with example.
+    42. Can we implement multiple interfaces in Java? Show with code.
+
+2. Inheritance & Polymorphism
+
+    43. Write a program to demonstrate single inheritance.
+    44. Write a program to demonstrate multilevel inheritance.
+    45. Write a program to demonstrate method overloading.
+    46. Write a program to demonstrate method overriding.
+    47. Can we overload main() method in Java? Show with code.
+    48. Can we override static methods in Java? Why/why not?
+
+3. Constructors & Special Cases
+
+    49. Write a program to demonstrate constructor overloading.
+    50. Write a program to demonstrate copy constructor in Java.
+    51. Can a constructor be inherited? Explain with example.
+    52. Can we make constructor private? Give an example.
+    53. Singleton class program in Java.
+
+4. Advanced OOPs in Java
+
+    54. Write a program to demonstrate HAS-A relationship (composition).
+    55. Write a program to demonstrate IS-A relationship (inheritance).
+    56. Write a program to demonstrate aggregation vs composition.
+    57. Write a program to demonstrate inner class.
+    58. Write a program to demonstrate anonymous class.
+    59. Write a program to demonstrate static binding vs dynamic binding.
+    60. Example of final class and final method in Java.
+
+
