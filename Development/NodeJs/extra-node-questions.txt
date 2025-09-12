@@ -1,64 +1,64 @@
 🔹 Core Node.js (extra)
 
-1. Why is Node.js not good for CPU-intensive tasks?
-2. How does Node.js handle child processes?
-3. What is libuv in Node.js?
-4. Difference between process.nextTick() and Promise.resolve().then().
-5. How to gracefully shut down a Node.js server?
+  1. Why is Node.js not good for CPU-intensive tasks?
+  2. How does Node.js handle child processes?
+  3. What is libuv in Node.js?
+  4. Difference between process.nextTick() and Promise.resolve().then().
+  5. How to gracefully shut down a Node.js server?
 
 🔹 Modules & Package Management (extra)
 
-6. What is the difference between local and global npm packages?
-7. What is package-lock.json?
-8. What is semantic versioning in npm? (e.g., ^, \~ in versions).
-9. How to publish a package to npm?
-10. Difference between yarn, npm, and pnpm.
+  6. What is the difference between local and global npm packages?
+  7. What is package-lock.json?
+  8. What is semantic versioning in npm? (e.g., ^, \~ in versions).
+  9. How to publish a package to npm?
+  10. Difference between yarn, npm, and pnpm.
 
 🔹 Asynchronous Patterns (extra)
 
-11. What is the difference between parallel, series, and waterfall execution in async?
-12. How does async/await handle error handling differently from promises?
-13. What is race condition in async programming?
-14. How to avoid race conditions in Node.js?
+  11. What is the difference between parallel, series, and waterfall execution in async?
+  12. How does async/await handle error handling differently from promises?
+  13. What is race condition in async programming?
+  14. How to avoid race conditions in Node.js?
 
 🔹 File System & Streams (extra)
 
-15. Difference between readFile vs createReadStream.
-16. What happens if you don’t handle errors in a stream?
-17. How to compress or unzip files in Node.js?
-18. How to handle large file uploads in Node.js?
+  15. Difference between readFile vs createReadStream.
+  16. What happens if you don’t handle errors in a stream?
+  17. How to compress or unzip files in Node.js?
+  18. How to handle large file uploads in Node.js?
 
 🔹 Express & APIs (extra)
 
-19. How do you implement rate limiting in Express?
-20. How do you handle file uploads in Node.js? (multer, busboy).
-21. Difference between PUT and PATCH in REST APIs.
-22. How do you handle pagination in APIs?
-23. How to version REST APIs in Node.js?
+  19. How do you implement rate limiting in Express?
+  20. How do you handle file uploads in Node.js? (multer, busboy).
+  21. Difference between PUT and PATCH in REST APIs.
+  22. How do you handle pagination in APIs?
+  23. How to version REST APIs in Node.js?
 
 🔹 Security (extra)
 
-24. What are CSRF attacks? How to prevent them?
-25. Difference between HTTPS and HTTP in Node.js apps.
-26. How do you securely store passwords in Node.js?
-27. How to handle environment variables securely in production?
+  24. What are CSRF attacks? How to prevent them?
+  25. Difference between HTTPS and HTTP in Node.js apps.
+  26. How do you securely store passwords in Node.js?
+  27. How to handle environment variables securely in production?
 
 🔹 Performance & Scaling (extra)
 
-28. Difference between vertical and horizontal scaling in Node.js.
-29. How to handle millions of requests per second in Node.js?
-30. What is event loop lag? How to monitor it?
-31. What is load testing and which tools can you use with Node.js (k6, JMeter, Artillery)?
-32. How do you use Redis caching in Node.js?
+  28. Difference between vertical and horizontal scaling in Node.js.
+  29. How to handle millions of requests per second in Node.js?
+  30. What is event loop lag? How to monitor it?
+  31. What is load testing and which tools can you use with Node.js (k6, JMeter, Artillery)?
+  32. How do you use Redis caching in Node.js?
 
 🔹 Advanced (extra)
 
-33. What is TLS/SSL in Node.js?
-34. How do you implement WebSockets in Node.js? (socket.io).
-35. What is gRPC? How does it compare to REST in Node.js?
-36. What are message queues? (RabbitMQ, Kafka with Node.js).
-37. How do you build microservices in Node.js?
-38. Difference between Monolith and Microservices.
-39. How do you debug Node.js applications? (node inspect, Chrome DevTools).
-40. How do you monitor Node.js apps in production? (PM2, New Relic, Elastic APM).
+  33. What is TLS/SSL in Node.js?
+  34. How do you implement WebSockets in Node.js? (socket.io).
+  35. What is gRPC? How does it compare to REST in Node.js?
+  36. What are message queues? (RabbitMQ, Kafka with Node.js).
+  37. How do you build microservices in Node.js?
+  38. Difference between Monolith and Microservices.
+  39. How do you debug Node.js applications? (node inspect, Chrome DevTools).
+  40. How do you monitor Node.js apps in production? (PM2, New Relic, Elastic APM).
 
