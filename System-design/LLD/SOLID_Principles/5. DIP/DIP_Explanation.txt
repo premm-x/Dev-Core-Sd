@@ -1,0 +1,19 @@
+
+5. DIP – Dependency Inversion Principle
+
+Definition:
+    High-level modules should not depend on low-level modules.
+    Both should depend on abstractions (interfaces).
+    Abstractions should not depend on details — details should depend on abstractions.
+
+Common Violation Example:
+    EmailNotification class directly depends on the GmailService concrete class, 
+    making it hard to switch to another service like OutlookService.
+
+-- Before.java
+-- After.java
+
+Lesson:
+    Now EmailNotification depends only on the abstraction (EmailService), not concrete classes.
+    You can plug in any mail service — no need to modify existing logic, only inject a new dependency.
+

@@ -1,0 +1,17 @@
+
+2. OCP – Open/Closed Principle
+
+Definition:
+    A class should be open for extension but closed for modification.
+    You should be able to add new behavior without changing existing code.
+
+Common Violation Example:
+    DiscountCalculator has multiple if-else checks for every discount type.
+    Every time a new discount is added (e.g., FESTIVAL), you must modify the same class — violating OCP.
+
+-- Before.java
+-- After.java
+
+Lesson:
+    Adding a new discount (like FestivalDiscount) only needs a new class — no changes in existing logic.
+    This keeps your system stable and easily extendable.

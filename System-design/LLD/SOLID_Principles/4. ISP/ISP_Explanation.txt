@@ -1,0 +1,18 @@
+
+4. ISP – Interface Segregation Principle
+
+Definition:
+    Clients should not be forced to depend on interfaces they don’t use.
+    It’s better to have multiple small, specific interfaces than one large, general-purpose interface.
+
+Common Violation Example:
+    A single interface Worker forces all implementing classes (like Robot) to define methods 
+    they don’t need, such as eat() or sleep().
+
+-- Before.java
+-- After.java
+
+Lesson:
+    Split large interfaces into smaller, role-specific ones.
+    Classes implement only what they actually need — improving flexibility and avoiding unused code.
+

@@ -1,0 +1,15 @@
+
+1. SRP – Single Responsibility Principle
+
+Definition:
+    A class should have only one reason to change — one responsibility.
+
+Common Violation Example:
+    InvoicePrinter both calculates totals and prints invoices. Mixing logic and presentation.
+
+-- Before.java
+-- After.java
+
+Lesson:
+    Now Invoice handles data and logic, while InvoicePrinter handles presentation.
+

@@ -1,0 +1,16 @@
+
+3. LSP – Liskov Substitution Principle
+
+Definition:
+    Subclasses should be replaceable by their base class without breaking the application’s behavior.
+
+Common Violation Example:
+    A subclass (Square) overrides behavior of its parent (Rectangle) in a way that changes expected results — 
+    so substituting one for the other breaks the logic.
+
+-- Before.java
+-- After.java
+
+Lesson:
+    Square and Rectangle now follow a common Shape interface instead of inheritance that breaks behavior.
+    All subclasses can substitute their base type safely.
